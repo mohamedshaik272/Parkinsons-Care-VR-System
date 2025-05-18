@@ -1,7 +1,6 @@
 # Parkinson's Care VR System
 
 ![1st Place Grand Prize & Patient Safety Award](https://img.shields.io/badge/1st_Place-H2AI_Hackathon-gold)
-![Status](https://img.shields.io/badge/Status-Prototype-blue)
 
 > A comprehensive AI-powered system integrating VR assessments, speech analysis, and machine learning to improve care for Parkinson's patients. Developed during the Georgetown University H2AI Hackathon, winning 1st Place Grand Prize and Patient Safety Award.
 
