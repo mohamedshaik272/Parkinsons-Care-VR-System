@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+unity-hand-tracking/**/*.psd filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.png filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.tga filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.wav filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.mov filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/**/*.unitypackage filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/Assets/**/*.asset filter=lfs diff=lfs merge=lfs -text
+unity-hand-tracking/Assets/**/*.unity filter=lfs diff=lfs merge=lfs -text

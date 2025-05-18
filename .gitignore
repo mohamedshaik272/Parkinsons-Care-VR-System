@@ -1,0 +1,23 @@
+# data
+HealthyMeander
+HealthySpiral
+PatientMeander
+PatientSpiral
+HealthyAudio
+PatientAudio
+demographics.xlsx
+
+# macOS
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
